@@ -43,6 +43,7 @@ function onClickStartBnt() {
       clearInterval(timerID);
     }
   }, 1000);
+    console.log()
 }
 
 function addLeadingZero(value) {
